@@ -43,9 +43,9 @@ A Python-based Discord bot that allows users to send real-time Pushover notifica
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
->bash
->git clone https://github.com/yourusername/discord-pushover-bot.git
->cd discord-pushover-bot
+- bash
+- git clone https://github.com/yourusername/discord-pushover-bot.git
+- cd discord-pushover-bot
 
 ### 2. Install dependencies
 >pip install -r requirements.txt
