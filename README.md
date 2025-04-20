@@ -78,5 +78,5 @@ Requirements:
 - A Pushover application token
 
 🙌 Credits
-Created with 💻 and ☕ by [Your Name]. Inspired by the need for fast, private notifications during time-sensitive events.
+Created with 💻 and ☕ by XyleExile. Inspired by the need for fast, private notifications during time-sensitive events.
 
