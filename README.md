@@ -59,7 +59,7 @@ PUSHOVER_APP_TOKEN = 'your-pushover-app-token-here'
 ```
 
 ## 4. Run the bot
->python bot.py
+>push_it.py
 
 ## 📬 How to Subscribe as a User
 1. DM the bot with:
