@@ -58,7 +58,7 @@ DISCORD_BOT_TOKEN = 'your-discord-token-here'
 PUSHOVER_APP_TOKEN = 'your-pushover-app-token-here'
 ```
 
-##4. Run the bot
+## 4. Run the bot
 >python bot.py
 
 ## 📬 How to Subscribe as a User
