@@ -191,5 +191,3 @@ Inspired by the need for fast, private, mobile-first notifications.
 MIT License – Use freely and modify as you wish.
 
 ```
-
----
