@@ -1,13 +1,3 @@
-Absolutely! Here's a **fully enhanced and beautifully structured** `README.md` with everything you’ve built — ready for GitHub and deployment 💎
-
----
-
-### ✅ Downloadable Version
-I'll give you a downloadable version at the end, but here's the beautified content first:
-
----
-
-```markdown
 # 🔔 Discord to Pushover Notification Bot
 
 A Python-based Discord bot that allows users to send **real-time Pushover notifications** through Discord commands.  
