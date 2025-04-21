@@ -10,7 +10,6 @@ Perfect for urgent alerts, crypto/stock signals, or high-priority community anno
 - `!push <message>` – Send high-priority push notifications to all subscribed users.
 - `!subscribe <pushover_user_key>` – (via DM) Subscribe to alerts privately.
 - `!unsubscribe` – (via DM) Remove your Pushover key from the subscription list.
-- 🔐 Auto-deletes key-containing messages after processing (for privacy).
 - 🧠 Stores Discord User IDs alongside their Pushover keys.
 
 ---
@@ -31,7 +30,6 @@ Perfect for urgent alerts, crypto/stock signals, or high-priority community anno
 
 - Users **must DM** the bot to subscribe (ensures keys aren't exposed in public).
 - Subscriptions are stored as `{ discord_id, pushover_key }` in a JSON file.
-- The bot **automatically deletes** subscription messages after they're processed.
 - All data is kept local and private – no third-party tracking.
 
 ---
