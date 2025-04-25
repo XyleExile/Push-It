@@ -61,8 +61,8 @@ Perfect for urgent alerts, crypto/stock signals, or high-priority community anno
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discord-pushover-bot.git
-cd discord-pushover-bot
+git clone https://github.com/XyleExile/Push-It.git
+cd Push-It
 ```
 
 #### 2. Install dependencies
